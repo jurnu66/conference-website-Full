@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "work_ms": 560925,
+  "input_tokens": 1356892,
+  "output_tokens": 89698,
+  "cost_usd": 0.0,
+  "api_billed_usd": 0.0,
+  "priced": false
+}

@@ -1,0 +1,59 @@
+--- Craft Anything 0.6.1: a run started 2026-11-13 05:31:33 UTC ---
+05:31:33 stage Getting the builder ready…
+05:31:33 stage Building the first version…
+05:31:35 note  Asking Antigravity…
+05:31:48 start run command
+05:31:48 done  run command: Created At: 2026-11-13T12:31:47+07:00 Completed At: 2026-11-13T12:31:47+07:00 Command exited with code 0. Command output: /Users/dolphin/Desktop/Seminar/conference-website total 40 drwxr-xr-x@ 10 d
+05:31:51 start run command
+05:31:51 done  run command: Created At: 2026-11-13T12:31:51+07:00 Completed At: 2026-11-13T12:31:51+07:00 Command exited with code 0. Command output: { "version": 5, "name": "สร้างเว็บไซต์งานประชุมวิชาการ (Mini-Conference
+05:31:54 start run command
+05:31:55 done  run command: Created At: 2026-11-13T12:31:54+07:00 Completed At: 2026-11-13T12:31:54+07:00 Command exited with code 0. Command output: total 0 drwxr-xr-x@ 2 dolphin staff 64 Nov 13 12:31 . drwxr-xr-x@ 10 do
+05:31:58 start run command
+05:31:58 done  run command: Created At: 2026-11-13T12:31:58+07:00 Completed At: 2026-11-13T12:31:58+07:00 Command exited with code 0. Command output: capture: total 8 drwxr-xr-x@ 3 dolphin staff 96 Nov 13 12:31 . drwxr-x
+05:32:01 start run command
+05:32:01 done  run command: Created At: 2026-11-13T12:32:01+07:00 Completed At: 2026-11-13T12:32:01+07:00 Command exited with code 0. Command output: # No target Build from the request alone.
+05:32:10 start run command
+05:32:10 done  run command: Created At: 2026-11-13T12:32:10+07:00 Completed At: 2026-11-13T12:32:10+07:00 Command exited with code 0. Command output: v25.9.0 11.12.1
+05:33:00 start run command
+05:33:00 done  run command: Created At: 2026-11-13T12:33:00+07:00 Completed At: 2026-11-13T12:33:00+07:00 Command exited with code 0. No output from the command.
+05:33:06 start write file
+05:33:06 done  write file
+05:34:33 start write file
+05:34:33 done  write file
+05:34:37 start run command
+05:34:37 done  run command: Created At: 2026-11-13T12:34:36+07:00 Completed At: 2026-11-13T12:34:36+07:00 Command exited with code 0. No output from the command.
+05:36:14 start write file
+05:36:14 done  write file
+05:36:37 start write file
+05:36:37 done  write file
+05:39:36 start write file
+05:39:36 done  write file
+05:39:40 start run command
+05:39:41 done  run command: Created At: 2026-11-13T12:39:40+07:00 Completed At: 2026-11-13T12:39:41+07:00 Command exited with code 0. Command output: > cdti-cpe-seminar-mini-conference@1.0.0 build > node build.js 🚀 Starti
+05:39:44 start run command
+05:39:44 done  run command: Created At: 2026-11-13T12:39:44+07:00 Completed At: 2026-11-13T12:39:44+07:00 Command exited with code 0. Command output: total 832 drwxr-xr-x@ 24 dolphin staff 768 Nov 13 12:39 . drwxr-xr-x@
+05:39:48 start run command
+05:39:48 done  run command: Created At: 2026-11-13T12:39:48+07:00 Completed At: 2026-11-13T12:39:48+07:00 Command exited with code 0. Command output: <!DOCTYPE html> <html lang="th"> <head> <meta charset="UTF-8"> <meta
+05:39:53 start run command
+05:39:53 done  run command: Created At: 2026-11-13T12:39:53+07:00 Completed At: 2026-11-13T12:39:53+07:00 Command exited with code 0. Command output: <div class="form-group"> <label class="form-label">อีเมลติ
+05:39:56 start run command
+05:39:56 done  run command: Created At: 2026-11-13T12:39:56+07:00 Completed At: 2026-11-13T12:39:56+07:00 Command exited with code 0. Command output: <div class="form-group"> <label class="form-label">อีเมลติ
+05:40:01 start run command
+05:40:01 done  run command: Created At: 2026-11-13T12:40:01+07:00 Completed At: 2026-11-13T12:40:01+07:00 Command exited with code 0. Command output: 55: <a href="./committee/index.html" class="dropdown-item"> 278
+05:40:09 start run command
+05:40:09 done  run command: Created At: 2026-11-13T12:40:09+07:00 Completed At: 2026-11-13T12:40:09+07:00 Command exited with code 0. Command output: All local links in all generated HTML files resolve successfully! No broken l
+05:40:16 start run command
+05:40:16 done  run command: Created At: 2026-11-13T12:40:15+07:00 Completed At: 2026-11-13T12:40:16+07:00 Command exited with code 0. Command output: All CSS and JS asset paths in all generated HTML files resolve cleanly!
+05:40:33 start run command
+05:40:33 done  run command: Created At: 2026-11-13T12:40:32+07:00 Completed At: 2026-11-13T12:40:33+07:00 Command exited with code 0. Command output: up to date, audited 1 package in 187ms found 0 vulnerabilities > cdti
+05:40:37 start run command
+05:40:37 done  run command: Created At: 2026-11-13T12:40:37+07:00 Completed At: 2026-11-13T12:40:37+07:00 Command exited with code 128. Command output: fatal: not a git repository (or any of the parent directories): .git
+05:40:44 start run command
+05:40:44 done  run command: Created At: 2026-11-13T12:40:44+07:00 Completed At: 2026-11-13T12:40:44+07:00 Command exited with code 0. Command output: total 56 drwxr-xr-x@ 11 dolphin staff 352 Nov 13 12:40 . drwxr-xr-x@ 6
+05:40:53 said  เว็บไซต์งานประชุมวิชาการเบื้องต้น (Mini-Conference) สำหรับรายวิชา 300-1412 สัมมนาทางวิศวกรรมคอมพิวเตอร์ สถาบันเทคโนโลยีจิตรลดา ได้รับการสร้างเสร็จสมบูรณ์แล้ว โดยผสมผสานรูปแบบหน้าแรกยาวแบบ One-page เลื่อนนุ่มนวล พร้อมเมนูดรอปดาวน์เชื่อมโยงสู่หน้าย่อยทุกหน้าในโทนสีน้ำเงิน-เขียวอันเป็นเอกลักษณ์ของสถาบัน ระบบมีข้อมูลครบถ้วนทั้งแผนงาน 9 สัปดาห์ โครงสร้างทีมจัดงานทั้ง 6 ฝ่ายแบบพับเก็บได้ ตารางกำหนดการแบ่งแท็บตามช่วงเวลา และระบบจำลองการส่งบทความและลงทะเบียน โดยเนื้อหาทั้งหมดถูกรวบรวมไว้ในจุดเดียวเพื่อให้แก้ไขข้อความได้สะดวกโดยไม่ต้องมีความรู้ด้านการเขียนโค้ด เนื่องจากข้อมูลจริงบางส่วนยังอยู่ระหว่างรอ…
+05:40:53 note  The builder's turn ended (1356892 tokens in, 89698 out)
+05:40:53 stage Checking the build…
+05:40:53 stage Checking the build (1 of 1): build…
+05:40:54 done  Check build: Build succeeded.
+05:40:54 stage Ready: all 1 checks pass.
+05:40:54 stage Ready: all 1 checks pass.

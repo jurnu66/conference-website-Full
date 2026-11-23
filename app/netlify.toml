@@ -1,0 +1,4 @@
+# Netlify: build the static site and publish the dist/ folder (ไทย at /, English at /en/)
+[build]
+  command = "npm run build"
+  publish = "dist"
